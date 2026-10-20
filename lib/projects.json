@@ -3,7 +3,7 @@
     "title": "Annual Global Temperature Anomalies from 1960-2025 Relative to 1950-1980",
     "year": "2026",
     "image": "../images/annual_global_temperature_anomalies_from_1960_2025_relative_to_1950_1980.png",
-    "description": "A data visualization for an climate-based group project that I created using data from (https://data.imf.org/en/datasets/IMF.STA:CCI). Its purpose is to demonstrate the global warming trend from the 20th-21st century using the 20th century as a baseline."
+    "description": "A data visualization for a climate-based group project that I created using data from (https://data.imf.org/en/datasets/IMF.STA:CCI). Its purpose is to demonstrate the global warming trend from the 20th-21st century using the 20th century as a baseline."
   },
   {
     "title": "Atmospheric CO2 Concentration (1960-2025)",
@@ -51,7 +51,7 @@
     "title": "Distribution of Beverage Benefits by Ranking",
     "year": "2025",
     "image": "../images/distribution_of_beverage_benefits_by_ranking.png",
-    "description": "A large horizontal bar graph I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). Its purpose is to illustrate the most popular beverages sold from Pressed Juicery."
+    "description": "A triple pie chart I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). It shows the categorical breakdown of primary benefits, secondary benefits, and tertiary benefits from the most popular beverages consumed in this sample."
   },
   {
     "title": "Distribution of Favorite Beverage Types",
@@ -63,7 +63,7 @@
     "title": "Favorite Pressed Juicery Beverages",
     "year": "2025",
     "image": "../images/favorite_pressed_juicery_beverages.png",
-    "description": "A triple pie chart I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). It shows the categorical breakdown of primary benefits, secondary benefits, and tertiary benefits from the most popular beverages consumed in this sample."
+    "description": "A large horizontal bar graph I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). Its purpose is to illustrate the most popular beverages sold from Pressed Juicery."
   },
   {
     "title": "Overall Rating in Relation to the Meat:Filling Ratio of a Burrito",
