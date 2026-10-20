@@ -33,7 +33,7 @@
     "title": "Ratings by Top Business Categories",
     "year": "2026",
     "image": "../images/ratings_by_top_buisness_categories.png",
-    "description": "Multiple boxplots I construed using metadata from (https://dsc80.com/proj04/google_review_desc/). It displays the rating range of top business categories in Hawaii."
+    "description": "Multiple boxplots I crafted using metadata from (https://dsc80.com/proj04/google_review_desc/). It displays the rating range of top business categories in Hawaii."
   },
   {
     "title": "Top 10 Business Categories by Number of Reviews",
