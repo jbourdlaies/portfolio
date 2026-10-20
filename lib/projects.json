@@ -1,62 +1,74 @@
 [
   {
-    "title": "Lorem ipsum dolor sit.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat natus quae tenetur odio quas voluptas, a soluta error reprehenderit magni quisquam quam ab consectetur vero dolor libero possimus, blanditiis impedit."
+    "title": "Annual Global Temperature Anomalies from 1960-2025 Relative to 1950-1980",
+    "year": "2026",
+    "image": "../images/annual_global_temperature_anomalies_from_1960_2025_relative_to_1950_1980.png",
+    "description": "A data visualization for an climate-based group project that I created using data from (https://data.imf.org/en/datasets/IMF.STA:CCI). Its purpose is to demonstrate the global warming trend from the 20th-21st century using the 20th century as a baseline."
   },
   {
-    "title": "Laudantium ea ullam maiores.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Odio eum et earum, alias beatae, quos inventore quia aliquam animi, autem ipsum. Ad omnis nisi nobis veritatis officiis exercitationem rerum sapiente placeat eum facilis odio nam minima, aut error!"
+    "title": "Atmospheric CO2 Concentration (1960-2025)",
+    "year": "2026",
+    "image": "../images/atmospheric_co2_concentration_1960_2025.png",
+    "description": "A data visualization for an environmental group project that I made using data from (https://data.imf.org/en/datasets/IMF.STA:CCI). I wanted to show the fluctuating yet steadily increasing CO2 levels in the atmosphere, which damages the ozone layer."
   },
   {
-    "title": "Omnis eos at neque?",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Et eum quibusdam, nihil iure cum saepe facere repellat quod a, consequuntur, asperiores officiis vero? Tenetur, maiores temporibus doloremque quia laboriosam quisquam, aperiam odio tempore ducimus suscipit nihil repellat exercitationem!"
+    "title": "Percentage of Food Processing Classes by Store",
+    "year": "2026",
+    "image": "../images/percentage_of_frood_processing_classes_by_store.png",
+    "description": "A quadruple bar chart I created for a small project, using data from (https://dsc106.com/projects/project1/#data-grocery-store-foods). Here, I highlight the distribution of processed foods in 3 major retail stores."
   },
   {
-    "title": "Eos facilis iste sunt.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Perspiciatis rem earum cum cumque. Perferendis delectus iusto quod pariatur praesentium sed! Quaerat enim, provident doloribus repellat sint obcaecati ad hic, commodi, architecto sit voluptatem earum alias quibusdam in. Quia."
+    "title": "Rating Distribution: Missing vs Not Missing Review Text",
+    "year": "2026",
+    "image": "../images/rating_distribution_missing_vs_not_missing_review_text.png",
+    "description": "A distribution chart I made to observe the proportion of missing reviews compared to not missing reviews, with metadata from (https://dsc80.com/proj04/google_review_desc/). The dataset contains reviews for Hawaiian businesses."
   },
   {
-    "title": "Porro eum reprehenderit labore.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Placeat, facere ipsam. Molestias rem ut quibusdam aliquam. Veniam obcaecati laboriosam labore? Iusto blanditiis, consequatur veritatis dolor numquam incidunt explicabo possimus accusantium quam molestiae nulla qui aperiam tempore suscipit earum."
+    "title": "Average Rating vs Number of Reviews",
+    "year": "2026",
+    "image": "../images/average_rating_vs_number_of_reviews.png",
+    "description": "A scatterplot I designed using metadata from (https://dsc80.com/proj04/google_review_desc/). It captures the average ratings of Hawaiian businesses relative to the number of reviews for each business."
   },
   {
-    "title": "Ipsa consectetur eos neque.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Numquam, labore! Laborum totam earum dignissimos officia ipsa placeat incidunt laboriosam ratione iusto atque officiis est aperiam, debitis natus aliquid, tenetur vel eaque nam explicabo deleniti possimus voluptatem provident laudantium."
+    "title": "Ratings by Top Business Categories",
+    "year": "2026",
+    "image": "../images/ratings_by_top_buisness_categories.png",
+    "description": "Multiple boxplots I construed using metadata from (https://dsc80.com/proj04/google_review_desc/). It displays the rating range of top business categories in Hawaii."
   },
   {
-    "title": "Ea nobis repudiandae et.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Optio quaerat pariatur reiciendis dolorum eveniet explicabo itaque nihil at soluta voluptas repellat eius, voluptatibus molestias necessitatibus, harum repudiandae maxime architecto enim inventore cumque doloremque aperiam dolores iste. Recusandae, tenetur."
+    "title": "Top 10 Business Categories by Number of Reviews",
+    "year": "2026",
+    "image": "../images/top_10_business_categories_by_number_of_reviews.png",
+    "description": "A horizontal bar chart I designed using metadata from (https://dsc80.com/proj04/google_review_desc/). It shows the count of reviews for the top business categories in Hawaii."
   },
   {
-    "title": "Error quo debitis assumenda?",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Eaque ratione maxime, animi corrupti dolore ad quasi beatae harum quis blanditiis deleniti porro, alias, delectus impedit tempora. Facilis eos culpa commodi at, cupiditate deserunt officiis excepturi blanditiis obcaecati repudiandae."
+    "title": "Distribution of Review Ratings",
+    "year": "2026",
+    "image": "../images/distribution_of_review_ratings.png",
+    "description": "A distribution histogram I designed using metadata from (https://dsc80.com/proj04/google_review_desc/). Based on Hawaiian business reviews, it shows the counts of reviews for each star rating (1-5)."
   },
   {
-    "title": "Assumenda ipsum distinctio dolore.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Illo voluptate vel natus sint provident facere quae, labore nostrum consequuntur ad, quaerat itaque velit id hic deleniti expedita sit distinctio, dolorum repudiandae architecto at quia quo ipsum assumenda? Itaque."
+    "title": "Distribution of Beverage Benefits by Ranking",
+    "year": "2025",
+    "image": "../images/distribution_of_beverage_benefits_by_ranking.png",
+    "description": "A large horizontal bar graph I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). Its purpose is to illustrate the most popular beverages sold from Pressed Juicery."
   },
   {
-    "title": "Iusto qui recusandae quisquam?",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Sit tempore hic velit eaque ut voluptas consequuntur debitis odit. Excepturi officiis atque ut. Dolores deserunt saepe dignissimos iure culpa beatae reiciendis odio qui nobis molestiae, voluptatem voluptate exercitationem! Necessitatibus!"
+    "title": "Distribution of Favorite Beverage Types",
+    "year": "2025",
+    "image": "../images/distribution_of_favorite_beverage_types.png",
+    "description": "A donut chart I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). Using the most popular beverages from this sample, it shows the percentage of each type of beverage consumed as classified by Pressed Juicery (e.g. Wellness Smoothie or Probiotic Lemonade)."
   },
   {
-    "title": "Officiis laborum accusantium explicabo.",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Laboriosam cupiditate iusto ea dolore? Nobis rem ullam tempore labore, voluptatum id debitis obcaecati assumenda natus? Voluptatum fugit sint nobis quos, libero voluptas vitae nihil doloribus, inventore, ad rem! Voluptas."
+    "title": "Favorite Pressed Juicery Beverages",
+    "year": "2025",
+    "image": "../images/favorite_pressed_juicery_beverages.png",
+    "description": "A triple pie chart I created using data I collected from my workplace in 2025 (https://docs.google.com/spreadsheets/d/1dcvXDqluSD6pcG53NBeBvZxrs9hieD1C-4l4wSCOj8Q/edit?usp=sharing). It shows the categorical breakdown of primary benefits, secondary benefits, and tertiary benefits from the most popular beverages consumed in this sample."
   },
   {
-    "title": "Itaque veniam tempore ipsum!",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Perferendis quidem officia placeat nihil fuga! Cum sint blanditiis, magnam eligendi iusto reprehenderit corrupti deserunt ut ex fugit molestias delectus iure quae ab quam iste soluta obcaecati repellat commodi distinctio."
+    "title": "Overall Rating in Relation to the Meat:Filling Ratio of a Burrito",
+    "year": "2024",
+    "image": "../images/overall_rating_in_relation_to_the_meat_filling_ratio_of_a_burrito.png",
+    "description": "A simple line chart I worked on in a group project for COGS 9, with data from (https://docs.google.com/spreadsheets/d/18HkrklYz1bKpDLeL-kaMrGjAhUM6LeJMIACwEljCgaw/edit?usp=sharing). It establishes a roughly positive, linear trend where the overall rating increases as the meat:filling ratio increases. Accounted for vegans/vegetarians during the data cleaning process."
   }
 ]
