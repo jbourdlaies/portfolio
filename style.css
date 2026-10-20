@@ -96,8 +96,9 @@ img {
 .projects article img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 200px;
   object-fit: contain;
+  background: #f5f5f5;
 }
 
 .projects h2,
