@@ -268,3 +268,40 @@ time {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
 }
+
+#projects-pie-plot path {
+  cursor: pointer;
+  transition: opacity 300ms, fill 300ms;
+}
+
+#projects-pie-plot:has(path:hover) path:not(:hover) {
+  opacity: 0.5;
+}
+
+.selected {
+  --color: oklch(60% 45% 0) !important;
+}
+
+.selected:is(path) {
+  fill: var(--color);
+}
+
+.legend-item {
+  cursor: pointer;
+  border-radius: 0.25em;
+  padding: 0.25em;
+}
+
+.legend-item:hover {
+  background: oklch(80% 3% 200 / 20%);
+}
+
+.legend-item:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.legend-item.selected {
+  background: oklch(80% 3% 200 / 30%);
+  font-weight: 600;
+}
