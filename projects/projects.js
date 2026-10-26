@@ -13,16 +13,23 @@ if (projectsTitle) {
   projectsTitle.textContent = `Projects (${projects.length})`;
 }
 
-const data = [1, 2, 3, 4, 5, 5];
+const data = [
+  { value: 1, label: 'Apples' },
+  { value: 2, label: 'Oranges' },
+  { value: 3, label: 'Mangos' },
+  { value: 4, label: 'Pears' },
+  { value: 5, label: 'Limes' },
+  { value: 5, label: 'Cherries' },
+];
 
 const arcGenerator = d3.arc()
   .innerRadius(0)
   .outerRadius(50);
 
-const sliceGenerator = d3.pie();
+const sliceGenerator = d3.pie()
+  .value((d) => d.value);
 
 const arcData = sliceGenerator(data);
-
 const arcs = arcData.map((d) => arcGenerator(d));
 
 const colors = d3.scaleOrdinal(d3.schemeTableau10);
@@ -33,4 +40,15 @@ arcs.forEach((arc, idx) => {
   svg.append('path')
     .attr('d', arc)
     .attr('fill', colors(idx));
+});
+
+const legend = d3.select('.legend');
+
+data.forEach((d, idx) => {
+  legend.append('li')
+    .attr('class', 'legend-item')
+    .attr('style', `--color: ${colors(idx)}`)
+    .html(
+      `<span class="swatch"></span> ${d.label} <em>(${d.value})</em>`
+    );
 });

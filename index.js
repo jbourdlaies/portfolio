@@ -4,14 +4,12 @@ import {
   fetchGitHubData
 } from './global.js';
 
-// Display the first three projects
 const projects = await fetchJSON('./lib/projects.json');
 const latestProjects = projects.slice(0, 3);
 const projectsContainer = document.querySelector('.projects');
 
 renderProjects(latestProjects, projectsContainer, 'h2');
 
-// Fetch your GitHub profile statistics
 const githubData = await fetchGitHubData('jbourdlaies');
 
 const profileStats = document.querySelector('#profile-stats');
