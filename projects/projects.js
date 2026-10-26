@@ -13,14 +13,15 @@ if (projectsTitle) {
   projectsTitle.textContent = `Projects (${projects.length})`;
 }
 
-const data = [
-  { value: 1, label: 'Apples' },
-  { value: 2, label: 'Oranges' },
-  { value: 3, label: 'Mangos' },
-  { value: 4, label: 'Pears' },
-  { value: 5, label: 'Limes' },
-  { value: 5, label: 'Cherries' },
-];
+const rolledData = d3.rollups(
+  projects,
+  (v) => v.length,
+  (d) => d.year
+);
+
+const data = rolledData.map(([year, count]) => {
+  return { value: count, label: year };
+});
 
 const arcGenerator = d3.arc()
   .innerRadius(0)
