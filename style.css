@@ -114,6 +114,23 @@ img {
   margin: 0;
 }
 
+.project-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.project-text p {
+  margin: 0;
+}
+
+.project-year {
+  color: gray;
+  font-family: Baskerville, serif;
+  font-variant-numeric: oldstyle-nums;
+  font-size: 0.9em;
+}
+
 @media (max-width: 700px) {
   .projects {
     grid-template-columns: repeat(2, minmax(0, 1fr));
