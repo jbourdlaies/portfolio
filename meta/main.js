@@ -153,7 +153,9 @@ function renderScatterPlot(data, commits) {
       .tickSize(-usableArea.width)
   );
 
-  const xAxis = d3.axisBottom(xScale);
+  const xAxis = d3
+    .axisBottom(xScale)
+    .ticks(8);
 
   const yAxis = d3
     .axisLeft(yScale)
