@@ -321,3 +321,12 @@ time {
   margin: 0;
   font-variant-numeric: tabular-nums;
 }
+
+.gridlines line {
+    stroke: oklch(80% 3% 200 / 40%);
+    stroke-opacity: 0.7;
+}
+
+.gridlines path {
+    stroke: none;
+}
