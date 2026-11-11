@@ -1,5 +1,12 @@
 [
   {
+  "title": "Bikewatchers: Boston Bike Traffic Visualization",
+  "year": "2026",
+  "image": "../images/bikewatchers.png",
+  "description": "An interactive data visualization built using JavaScript, D3.js, and Mapbox GL JS. It visualizes existing bike lanes across Boston and Cambridge alongside Bluebikes station locations and traffic patterns. Users can explore bike traffic volume, distinguish between arrivals and departures, and filter traffic by time of day.",
+  "url": "https://jbourdlaies.github.io/bikewatchers/"
+  }, 
+  {
     "title": "Annual Global Temperature Anomalies from 1960-2025 Relative to 1950-1980",
     "year": "2026",
     "image": "../images/annual_global_temperature_anomalies_from_1960_2025_relative_to_1950_1980.png",
